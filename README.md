@@ -10,4 +10,4 @@ START WITH git pull IN CMD LINE OF WEBSITE FOLDER
   - ```git status```
   - ```git add --all```
   - ```git commit -m"Any message"```
-  - ```git push```
+  - ```git push -f```
