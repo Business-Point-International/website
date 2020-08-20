@@ -635,10 +635,10 @@ footer .btns .btn {
     border-color: #fff;
 }
 .footlinkL {
-    float: right;
+    /*float: right;*/
 }
 .footcopy {
-    float: left;
+    /*float: left;*/
 }
 
 footer address span {
